@@ -1,0 +1,7 @@
+version: "2"
+domain: chocolate-chip-stack.stackathon
+repo: exec
+resources:
+- group: exec
+  version: v1
+  kind: Executor
